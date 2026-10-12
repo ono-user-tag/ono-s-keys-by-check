@@ -1,0 +1,2 @@
+ # Lista de acceso de ono's song
+   # Escribe un usuario por linea para revocarle el acceso.
